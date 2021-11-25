@@ -1,0 +1,10 @@
+/apps/location/.cache/
+/apps/location/.idea/
+/apps/location/node_modules/
+/apps/sorting/.cache/
+/apps/sorting/.idea/
+/apps/sorting/node_modules/
+/apps/stats/.cache/
+/apps/stats/.idea/
+/apps/stats/node_modules/
+node_modules
